@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Ping Streamlit App
-        run: curl https://ejerciciofisica-9z3khxamvsy3svuxascdjr.streamlit.app/
+        run: curl -f https://ejerciciofisica-9z3khxamvsy3svuxascdjr.streamlit.app/
